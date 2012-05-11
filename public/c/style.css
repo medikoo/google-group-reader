@@ -49,7 +49,7 @@ div.details { margin: 18px; }
 div.body p  { margin: 9px 0; line-height: 18px; }
 
 
-p.controls { text-align: right; }
+p.controls { text-align: left; }
 p.controls input { font-weight: bold; }
 
 blockquote p.email-quoted { padding-left: 18px; color: #888; }
