@@ -17,7 +17,7 @@
   "devDependencies": {},
   "optionalDependencies": {
     "forever": "0.10.x",
-    "nodemailer": "0.3.x"
+    "nodemailer": "^1.3.4"
   },
   "engines": {
     "node": "*"
